@@ -4,6 +4,8 @@ Platformer demo made with Unity Visual Scripting.
 
 ![Image](ReadmeAssets/Thumbnail.png)
 
+Link to Demo: https://play.unity.com/mg/other/nowy-folder-2-14
+
 Used assets:
 - Sunny Land by ansimuz: https://opengameart.org/content/sunny-land-2d-pixel-art-pack
 - Pixel heart by Nicole Marie T: https://nicolemariet.itch.io/pixel-heart-animation-32x32-16x16-freebie
